@@ -1,13 +1,13 @@
 ![Image de mon portfolio](https://github.com/Neirpy/Neirpy/blob/main/img/portfolio.png?raw=true)
-## Welcome to my GitHub pages 👋
+# Welcome to my GitHub pages 👋
 I'm a French web developer who works with 3d, augmented and virtual reality on website.
 
-### About me 👨‍💻
+## About me 👨‍💻
 I'm currently in studies of cognitives sciences, and I'm in sandwich courses in Charly Lab, the fablab of IUT Nancy Charlemagne.
 I’m a constantly curious, imaginative, persistent, detail-oriented, team-worker. I prefer qualities to quantity.
 I always try to improve my skills and my knowledge with a lot of research.
 
-### Skills 🛠️
+## Skills 🛠️
 
 
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
@@ -31,16 +31,16 @@ I always try to improve my skills and my knowledge with a lot of research.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neirpy&layout=compact&theme=dracula&card_width=900)](https://github.com/Neirpy/github-readme-stats)
 _This is list only from my public repositories, I have a lot of private repositories with other languages._
 
-### Github Stats 📈
+## Github Stats 📈
 
 [![Neirpy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Neirpy&theme=dracula&width=900)](https://github.com/Neirpy/github-readme-activity-graph)
 
 
 
-### Contact me 📫
+## Contact me 📫
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/cyprien-grunblatt-541209222/)
 
-### Fun part 🎉
+## Fun part 🎉
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=a5kxs3d93wk2yz6mcqrplobt1&width=900&count=3)
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dracula)
