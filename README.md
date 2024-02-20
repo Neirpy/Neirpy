@@ -28,7 +28,7 @@ I always try to improve my skills and my knowledge with a lot of research.
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![NPM](https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neirpy&layout=compact)](https://github.com/neirpy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neirpy&layout=compact&theme=dracula&card_width=900)](https://github.com/neirpy/github-readme-stats)
 
 
 ### Github Stats 📈
@@ -43,4 +43,4 @@ I always try to improve my skills and my knowledge with a lot of research.
 
 ### Fun part 🎉
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=a5kxs3d93wk2yz6mcqrplobt1&width=900&count=3)
-![Jokes Card](https://readme-jokes.vercel.app/api)
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=dracula)
