@@ -29,7 +29,7 @@ I always try to improve my skills and my knowledge with a lot of research.
 ![NPM](https://img.shields.io/badge/-NPM-black?style=flat-square&logo=npm)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Neirpy&layout=compact&theme=dracula&card_width=900)](https://github.com/Neirpy/github-readme-stats)
-
+_This is list only from my public repositories, I have a lot of private repositories with other languages._
 
 ### Github Stats 📈
 
