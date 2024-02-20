@@ -33,7 +33,7 @@ I always try to improve my skills and my knowledge with a lot of research.
 
 ### Github Stats 📈
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Neirpy&theme=dracula)](https://github.com/Neirpy/github-readme-activity-graph)
+[![Neirpy's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Neirpy&theme=dracula&width=900)](https://github.com/Neirpy/github-readme-activity-graph)
 
 
 
