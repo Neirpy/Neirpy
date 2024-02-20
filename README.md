@@ -1,4 +1,4 @@
-![alt text]([img/portfolio.png])
+![Image de mon portfolio](https://github.com/Neirpy/Neirpy/blob/main/img/portfolio.png?raw=true)
 ## Welcome to my GitHub pages 👋
 I'm a French web developer who works with 3d, augmented and virtual reality on website.
 
