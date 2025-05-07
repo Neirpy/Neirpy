@@ -1,6 +1,6 @@
 ![Image de mon portfolio](https://github.com/Neirpy/Neirpy/blob/main/img/portfolio.png?raw=true)
 # Welcome to my GitHub pages 👋
-I'm a French web developer who works with 3d, augmented and virtual reality on website.
+I'm a French web developer who works with 3d, augmented and virtual reality on website/ on Godot.
 
 ## About me 👨‍💻
 I'm currently in studies of cognitives sciences, and I'm in sandwich courses in Charly Lab, the fablab of IUT Nancy Charlemagne.
@@ -13,6 +13,7 @@ I always try to improve my skills and my knowledge with a lot of research.
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Godot](https://img.shields.io/badge/Godot%20Engine-478CBF?logo=godotengine&logoColor=fff&style=flat)
 ![Three.js](https://img.shields.io/badge/-Three.js-black?style=flat-square&logo=three.js)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![Symfony](https://img.shields.io/badge/-Symfony-black?style=flat-square&logo=symfony)
