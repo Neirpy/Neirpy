@@ -13,7 +13,7 @@ I always try to improve my skills and my knowledge with a lot of research.
 ![HTML](https://img.shields.io/badge/-HTML-black?style=flat-square&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-black?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Godot](https://img.shields.io/badge/Godot%20Engine-478CBF?logo=godotengine&logoColor=fff&style=flat)
+![Godot](https://img.shields.io/badge/Godot%20Engine-black?logo=godotengine&logoColor=fff&style=flat)
 ![Three.js](https://img.shields.io/badge/-Three.js-black?style=flat-square&logo=three.js)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![Symfony](https://img.shields.io/badge/-Symfony-black?style=flat-square&logo=symfony)
